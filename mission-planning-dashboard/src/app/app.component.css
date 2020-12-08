@@ -2,3 +2,9 @@
     display: flex;
     padding: 10px;
 }
+
+html {
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(177, 177, 177);
+    background-color: black;
+}
